@@ -8,11 +8,11 @@ Each project comes with its own interactive dashboard and local dataset in packa
 ### Bicycles Dataset 
 An interactive dashboard showcasing the company's profit over time, segmented by month, product, and year.
 
-### Job Market in Erie County
-This project explores labor statistics and unemployment rates in Erie County, featuring a trend line predicting employment and unemployment percentages.
-
 ### Multifaceted Impact of COVID-19 
 Delving into the effects of COVID-19, this visualization highlights the most affected gender, age group, race, and fatality rate among individuals who tested positive in lab tests.
+
+### Job Market in Erie County
+This project explores labor statistics and unemployment rates in Erie County, featuring a trend line predicting employment and unemployment percentages.
 
 ### Dog Breeds Analysis
 Inspired by the infographic book "Knowledge is Beautiful," this visualization uncovers intriguing insights into dog breeds. I categorized breeds into four groups based on a calculated score, derived by weighting various variables. 

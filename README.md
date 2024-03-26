@@ -1,7 +1,7 @@
 Welcome to my Tableau projects repository! Here, you'll find a collection of visualizations that I created while preparing for the Tableau Desktop Specialist certification. 
 Each project comes with its own interactive dashboard and local dataset in packaged workbook format (.twbx), along with accompanying images in PNG format.
 
-## Project List:
+### Project List:
 
 Bicycles Dataset - An interactive dashboard showcasing the company's profit over time, segmented by month, product, and year.
 

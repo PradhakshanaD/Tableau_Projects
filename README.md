@@ -14,9 +14,6 @@ Delving into the effects of COVID-19, this visualization highlights the most aff
 ### Job Market in Erie County
 This project explores labor statistics and unemployment rates in Erie County, featuring a trend line predicting employment and unemployment percentages.
 
-## Dataset Information
-Each project includes its local dataset in the packaged workbook file (.twbx), allowing you to explore the visualizations with the original data. Additionally, image files (.png) associated with the projects are provided for reference.
-
 These projects were not only a part of my preparation for the Tableau Desktop Specialist certification but also served as an opportunity to delve into data visualization & analysis and each project presented unique challenges and insights.
 
 Thank you for visiting my Tableau projects repository. 

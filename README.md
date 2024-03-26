@@ -24,6 +24,8 @@ presents them in an engaging format.
 ## Dataset Information
 Each project includes its local dataset in the packaged workbook file (.twbx), allowing you to explore the visualizations with the original data. Additionally, image files (.png) associated with the projects are provided for reference.
 
+
+
 These projects were not only a part of my preparation for the Tableau Desktop Specialist certification but also served as an opportunity to delve into data visualization & analysis and each project presented unique challenges and insights.
 
 Thank you for visiting my Tableau projects repository. I hope you find these visualizations informative.

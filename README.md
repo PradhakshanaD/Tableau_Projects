@@ -5,6 +5,9 @@ Each project comes with its own interactive dashboard and local dataset in packa
 
 ## Project List:
 
+### King County, Washington House Sales Dataset
+Interactive dashboard showcasing various aspects of house sales in King County, Washington, such as average pricing based on no. of bedrooms, bathrooms, square footage and condition vs. view.
+
 ### Bicycles Dataset 
 An interactive dashboard showcasing the company's profit over time, segmented by month, product, and year.
 

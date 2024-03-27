@@ -20,6 +20,6 @@ This project explores labor statistics and unemployment rates in Erie County, fe
 
 Thank you for visiting my Tableau projects repository. 
 
-##### Note
+#### Note
 I recognize that the visualizations in my projects are inspired by creators across various platforms such as YouTube and the internet. I attribute these inspirations to their respective creators. Notably, my decision to analyze King County data was influenced by Alex the Analyst.
 

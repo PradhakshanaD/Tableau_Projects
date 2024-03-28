@@ -23,3 +23,6 @@ Thank you for visiting my Tableau projects repository.
 #### Note
 I recognize that the visualizations in my projects are inspired by creators across various platforms such as YouTube and the internet. I attribute these inspirations to their respective creators. Notably, my decision to analyze King County data was influenced by Alex the Analyst.
 
+## Certificate
+
+[View Certificate]([https://your_file_hosting_service.com/your_certificate.pdf](https://www.credly.com/badges/b93ce127-75c3-47b6-8270-847a77850290/public_url))

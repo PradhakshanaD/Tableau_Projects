@@ -25,4 +25,4 @@ I recognize that the visualizations in my projects are inspired by creators acro
 
 ## Certificate
 
-[View Certificate]([https://your_file_hosting_service.com/your_certificate.pdf](https://www.credly.com/badges/b93ce127-75c3-47b6-8270-847a77850290/public_url))
+[View Certificate](https://www.credly.com/badges/b93ce127-75c3-47b6-8270-847a77850290/public_url)

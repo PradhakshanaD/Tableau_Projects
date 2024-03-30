@@ -9,14 +9,30 @@ These projects were not only a part of my preparation for the Tableau Desktop Sp
 ### King County, Washington House Sales Dataset
 Interactive dashboard showcasing various aspects of house sales in King County, Washington, such as average pricing based on no. of bedrooms, bathrooms, square footage and condition vs. view.
 
+
+![KING COUNTY HOUSE SALES](https://github.com/PradhakshanaD/Tableau_Projects/assets/124412733/68b7aa7a-d13f-41a5-8231-d5b3bbaffc0e)
+
+
 ### Bicycles Dataset 
 An interactive dashboard showcasing the company's profit over time, segmented by month, product, and year.
+
+
+![Dashboard ](https://github.com/PradhakshanaD/Tableau_Projects/assets/124412733/89f5fcf7-458b-48f5-9a82-3a31805fef39)
+
 
 ### Multifaceted Impact of COVID-19 
 Delving into the effects of COVID-19, this visualization highlights the most affected gender, age group, race, and fatality rate among individuals who tested positive in lab tests.
 
+
+![Dashboard](https://github.com/PradhakshanaD/Tableau_Projects/assets/124412733/a1e4096e-07bf-41be-a8e1-7d6b71a3f174)
+
+
 ### Job Market in Erie County
 This project explores labor statistics and unemployment rates in Erie County, featuring a trend line predicting employment and unemployment percentages.
+
+
+![Dashboard](https://github.com/PradhakshanaD/Tableau_Projects/assets/124412733/30f403de-77ec-49ef-81be-7607bddc441f)
+
 
 Thank you for visiting my Tableau projects repository. 
 

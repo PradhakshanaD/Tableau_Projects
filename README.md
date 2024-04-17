@@ -34,6 +34,15 @@ This project explores labor statistics and unemployment rates in Erie County, fe
 ![Dashboard](https://github.com/PradhakshanaD/Tableau_Projects/assets/124412733/30f403de-77ec-49ef-81be-7607bddc441f)
 
 
+
+### SuperStore Sales Analysis
+This project delves into sales analysis based on products using the SuperStore dataset. I've crafted calculated fields and incorporated the sigmoid function to model S-shaped curves.
+
+
+![Dashboard](https://github.com/PradhakshanaD/Tableau_Projects/blob/2d739c2fb0a48219d60da77d71f7ee6c8491647a/Tableau/Viz_5/Dashboard.png)
+
+
+
 Thank you for visiting my Tableau projects repository. 
 
 #### Note
